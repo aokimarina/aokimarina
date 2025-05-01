@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aokimarina&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ### frontend Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,next.js)](https://skillicons.dev)
 
 ### backend Languages:
 
