@@ -1,10 +1,10 @@
 ## Hi I'm Marina Aoki
 
-### frontend Langyages:
+### frontend Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,)](https://skillicons.dev)
 
-### backend Langyages:
+### backend Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,nodejs,postgres)](https://skillicons.dev)
 
