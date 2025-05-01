@@ -7,10 +7,10 @@
 
 ### backend Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,flask,nodejs,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,flask,nodejs,postgres,mysql)](https://skillicons.dev)
 
 ### tools:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,firebase,git,github,vitest,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,firebase,git,github,vitest,vscode,swagger,stripe,cloud vision API,open AI)](https://skillicons.dev)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aokimarina)](https://github.com/aokimarina/github-profile-trophy)
