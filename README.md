@@ -7,7 +7,7 @@
 
 ### backend Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,nodejs,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,flask,nodejs,postgres)](https://skillicons.dev)
 
 ### tools:
 
