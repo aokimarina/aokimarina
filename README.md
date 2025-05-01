@@ -6,7 +6,7 @@
 
 ### backend Langyages:
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,fastapinodejs,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,nodejs,postgres)](https://skillicons.dev)
 
 ### tools:
 
