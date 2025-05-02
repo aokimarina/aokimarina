@@ -1,4 +1,14 @@
 ## Hi I'm Marina Aoki
+
+In my previous role as a clinical laboratory technologist, I was involved in specimen preparation, cytodiagnosis, and autopsy. I also gained experience conducting internal audits based on ISO 15189 and serving as an external lecturer.
+
+Later, at MizEngineer's bootcamp, I learned multiple programming languages, database design, and API design. I developed applications, such as a packing assistant app that alerts users about forgotten items using the Cloud Vision API.
+
+Through development, I gained hands-on experience with both frontend and backend, but I found particular fulfillment in backend development. Moving forward, I am eager to deepen my expertise in this area.
+
+I aim to leverage the accuracy and responsibility I honed in my previous career to contribute effectively as an engineer.
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aokimarina&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aokimarina&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ### frontend Languages:
