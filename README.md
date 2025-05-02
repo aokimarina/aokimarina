@@ -1,10 +1,13 @@
 ## Hi I'm Marina Aoki
 
-In my previous role as a clinical laboratory technologist, I was involved in specimen preparation, cytodiagnosis, and autopsy. I also gained experience conducting internal audits based on ISO 15189 and serving as an external lecturer.
+In my previous role as a clinical laboratory technologist, I was involved in specimen preparation, cytodiagnosis, and autopsy.
+I also gained experience conducting internal audits based on ISO 15189 and serving as an external lecturer.
 
-Later, at MizEngineer's bootcamp, I learned multiple programming languages, database design, and API design. I developed applications, such as a packing assistant app that alerts users about forgotten items using the Cloud Vision API.
+Later, at MizEngineer's bootcamp, I learned multiple programming languages, database design, and API design. 
+I developed applications, such as a packing assistant app that alerts users about forgotten items using the Cloud Vision API.
 
-Through development, I gained hands-on experience with both frontend and backend, but I found particular fulfillment in backend development. Moving forward, I am eager to deepen my expertise in this area.
+Through development, I gained hands-on experience with both frontend and backend, but I found particular fulfillment in backend development. 
+Moving forward, I am eager to deepen my expertise in this area.
 
 I aim to leverage the accuracy and responsibility I honed in my previous career to contribute effectively as an engineer.
 
