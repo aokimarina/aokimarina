@@ -11,10 +11,11 @@ Moving forward, I am eager to deepen my expertise in this area.
 
 I aim to leverage the accuracy and responsibility I honed in my previous career to contribute effectively as an engineer.
 
-<div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aokimarina&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aokimarina&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aokimarina&theme=shadow_blue" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aokimarina&layout=donut" />
 </div>
+
 ### frontend Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,next.js)](https://skillicons.dev)
