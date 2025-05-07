@@ -11,10 +11,11 @@ Moving forward, I am eager to deepen my expertise in this area.
 
 I aim to leverage the accuracy and responsibility I honed in my previous career to contribute effectively as an engineer.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aokimarina&theme=shadow_blue" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aokimarina&layout=donut" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=aokimarina&theme=shadow_blue" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aokimarina&layout=donut" height="150" />
 </div>
+
 
 ### frontend Languages:
 
