@@ -1,6 +1,7 @@
 ## Hi I'm Marina Aoki
 
 In my previous role as a clinical laboratory technologist, I was involved in specimen preparation, cytodiagnosis, and autopsy.
+
 I also gained experience conducting internal audits based on ISO 15189 and serving as an external lecturer.
 
 Later, at MsEngineer's bootcamp, I learned multiple programming languages, database design, and API design. 
