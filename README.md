@@ -3,7 +3,7 @@
 In my previous role as a clinical laboratory technologist, I was involved in specimen preparation, cytodiagnosis, and autopsy.
 I also gained experience conducting internal audits based on ISO 15189 and serving as an external lecturer.
 
-Later, at MizEngineer's bootcamp, I learned multiple programming languages, database design, and API design. 
+Later, at MsEngineer's bootcamp, I learned multiple programming languages, database design, and API design. 
 I developed applications, such as a packing assistant app that alerts users about forgotten items using the Cloud Vision API.
 
 Through development, I gained hands-on experience with both frontend and backend, but I found particular fulfillment in backend development. 
