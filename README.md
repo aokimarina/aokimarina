@@ -31,4 +31,3 @@ I aim to leverage the accuracy and responsibility I honed in my previous career 
 
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,firebase,git,github,vitest,vscode,swagger,stripe,)](https://skillicons.dev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aokimarina)](https://github.com/aokimarina/github-profile-trophy)
